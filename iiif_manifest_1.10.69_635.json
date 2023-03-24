@@ -64,7 +64,7 @@
       },
       "value": {
         "nl": [
-          "[['Verenigde Oostindische Compagnie', 'Kamer Zeeland', 'Bewindhebber'], ['Westindische Compagnie', 'Kamer Zeeland', 'Bewindhebber']]"
+          "{'Westindische Compagnie', 'Kamer Zeeland', 'Verenigde Oostindische Compagnie', 'Bewindhebber'}"
         ]
       }
     },
@@ -91,12 +91,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 1"
+              "https://service.archief.nl/gaf/api/file/v1/default/a5e68291-d187-4043-9352-ee914ca9089d"
             ]
           }
         }
@@ -139,12 +139,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 2 and 3"
+              "https://service.archief.nl/gaf/api/file/v1/default/c75b9a5e-8fa9-4f2d-a05c-a9f0e3731aa2"
             ]
           }
         }
@@ -187,12 +187,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 4 and 5"
+              "https://service.archief.nl/gaf/api/file/v1/default/f45c8fc9-4154-46ea-bee3-1a8566288053"
             ]
           }
         }
@@ -235,12 +235,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 6 and 7"
+              "https://service.archief.nl/gaf/api/file/v1/default/2e400ee8-6715-42a2-bc23-a1757586d3ef"
             ]
           }
         }
@@ -283,12 +283,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 8 and 9"
+              "https://service.archief.nl/gaf/api/file/v1/default/ea98187a-c4a3-4da9-bbf6-d32feb1af87b"
             ]
           }
         }
@@ -331,12 +331,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 10 and 11"
+              "https://service.archief.nl/gaf/api/file/v1/default/115fc66d-1ac2-4473-a3c5-2ac5889fc71f"
             ]
           }
         }
@@ -379,12 +379,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 12 and 13"
+              "https://service.archief.nl/gaf/api/file/v1/default/42831b0b-8b89-4898-9935-810222ff37ae"
             ]
           }
         }
@@ -427,12 +427,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 14 and 15"
+              "https://service.archief.nl/gaf/api/file/v1/default/0fb1ee12-e631-4825-b589-c5c1526a8b26"
             ]
           }
         }
@@ -475,12 +475,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 16 and 17"
+              "https://service.archief.nl/gaf/api/file/v1/default/5fdee652-7e48-4219-819c-641873e6fa30"
             ]
           }
         }
@@ -523,12 +523,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 18 and 19"
+              "https://service.archief.nl/gaf/api/file/v1/default/8c48da42-ff03-4943-aca8-20c3745f6323"
             ]
           }
         }
@@ -571,12 +571,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 20 and 21"
+              "https://service.archief.nl/gaf/api/file/v1/default/34fcb2c5-9c52-4730-b71a-6dc2678617af"
             ]
           }
         }
@@ -619,12 +619,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 22 and 23"
+              "https://service.archief.nl/gaf/api/file/v1/default/6814c31c-48b2-40b5-96dc-01f62bd290a4"
             ]
           }
         }
@@ -667,12 +667,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 24 and 25"
+              "https://service.archief.nl/gaf/api/file/v1/default/ff7b6664-bc1a-4b8d-83b9-31fbbfc01140"
             ]
           }
         }
@@ -715,12 +715,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 26 and 27"
+              "https://service.archief.nl/gaf/api/file/v1/default/48a8fcf9-136a-45d2-af80-310c285e734b"
             ]
           }
         }
@@ -763,12 +763,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 28 and 29"
+              "https://service.archief.nl/gaf/api/file/v1/default/5c5ae010-7d11-484a-9fe0-f0b4a8bcbbc6"
             ]
           }
         }
@@ -811,12 +811,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 30 and 31"
+              "https://service.archief.nl/gaf/api/file/v1/default/e7af722f-c9f9-4e3b-8244-85cbf64fdfee"
             ]
           }
         }
@@ -859,12 +859,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 32 and 33"
+              "https://service.archief.nl/gaf/api/file/v1/default/f5fb96b2-9896-4299-8bbc-f676712e3ac6"
             ]
           }
         }
@@ -907,12 +907,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 34 and 35"
+              "https://service.archief.nl/gaf/api/file/v1/default/a4543796-a186-40e9-bb13-eec36365f967"
             ]
           }
         }
@@ -955,12 +955,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 36 and 37"
+              "https://service.archief.nl/gaf/api/file/v1/default/68d99db5-374a-4aec-94bb-eb603fdf7ac0"
             ]
           }
         }
@@ -1003,12 +1003,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 38 and 39"
+              "https://service.archief.nl/gaf/api/file/v1/default/297de3f2-5324-496d-a889-1db2053f2c1d"
             ]
           }
         }
@@ -1051,12 +1051,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 40 and 41"
+              "https://service.archief.nl/gaf/api/file/v1/default/e4d8fc6f-c85d-4083-8cd0-c338b3932a64"
             ]
           }
         }
@@ -1099,12 +1099,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 42 and 43"
+              "https://service.archief.nl/gaf/api/file/v1/default/49824923-38f1-4300-a8ad-e4d18b80a572"
             ]
           }
         }
@@ -1147,12 +1147,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 44 and 45"
+              "https://service.archief.nl/gaf/api/file/v1/default/ffc26ad3-abd2-4c8e-9588-aa52d03da972"
             ]
           }
         }
@@ -1195,12 +1195,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 46 and 47"
+              "https://service.archief.nl/gaf/api/file/v1/default/9960e446-06a9-45a0-b347-049698954782"
             ]
           }
         }
@@ -1243,12 +1243,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 48 and 49"
+              "https://service.archief.nl/gaf/api/file/v1/default/b01a491c-d3e6-4bad-9ad6-aace1652dd18"
             ]
           }
         }
@@ -1291,12 +1291,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 50 and 51"
+              "https://service.archief.nl/gaf/api/file/v1/default/eeb35f12-0f07-4a55-9710-5f227376c0de"
             ]
           }
         }
@@ -1339,12 +1339,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 52 and 53"
+              "https://service.archief.nl/gaf/api/file/v1/default/26e9f9e0-9117-4668-badf-de9f8c504fd8"
             ]
           }
         }
@@ -1387,12 +1387,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 54 and 55"
+              "https://service.archief.nl/gaf/api/file/v1/default/dd62fb72-5c2c-4ab3-8281-2d59fcdafdc7"
             ]
           }
         }
@@ -1435,12 +1435,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 56 and 57"
+              "https://service.archief.nl/gaf/api/file/v1/default/bb834e05-01a0-4174-a2d0-b643c85853a4"
             ]
           }
         }
@@ -1483,12 +1483,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 58 and 59"
+              "https://service.archief.nl/gaf/api/file/v1/default/d4eb506d-e307-4ce1-8987-e76727806fea"
             ]
           }
         }
@@ -1531,12 +1531,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 60 and 61"
+              "https://service.archief.nl/gaf/api/file/v1/default/9570645b-ffba-4f59-b73d-656e92c1491e"
             ]
           }
         }
@@ -1579,12 +1579,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 62 and 63"
+              "https://service.archief.nl/gaf/api/file/v1/default/e2f594d2-28b9-4eca-aaa7-4100abc401f4"
             ]
           }
         }
@@ -1627,12 +1627,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 64 and 65"
+              "https://service.archief.nl/gaf/api/file/v1/default/707ec348-9ba4-482a-a60d-5fb6e6a93cde"
             ]
           }
         }
@@ -1675,12 +1675,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 66 and 67"
+              "https://service.archief.nl/gaf/api/file/v1/default/03c4c540-b5ba-45d8-bd95-7fd895a43beb"
             ]
           }
         }
@@ -1723,12 +1723,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 68 and 69"
+              "https://service.archief.nl/gaf/api/file/v1/default/99fbc60a-090c-434c-9639-a0e0541976df"
             ]
           }
         }
@@ -1771,12 +1771,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 70 and 71"
+              "https://service.archief.nl/gaf/api/file/v1/default/601f3860-c605-4d15-8e22-1490b8b43f0b"
             ]
           }
         }
@@ -1819,12 +1819,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 72 and 73"
+              "https://service.archief.nl/gaf/api/file/v1/default/41c32e76-91e2-4f4f-8d04-5de7800aa8e0"
             ]
           }
         }
@@ -1867,12 +1867,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 74 and 75"
+              "https://service.archief.nl/gaf/api/file/v1/default/57f97929-1f25-4a96-a254-2536914b770a"
             ]
           }
         }
@@ -1915,12 +1915,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 76 and 77"
+              "https://service.archief.nl/gaf/api/file/v1/default/c6c03166-64c0-4bfe-b88c-77ed09517eaa"
             ]
           }
         }
@@ -1963,12 +1963,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 78 and 79"
+              "https://service.archief.nl/gaf/api/file/v1/default/c8f339c0-2ad6-48d7-9f2b-9be7309bfb87"
             ]
           }
         }
@@ -2011,12 +2011,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 80 and 81"
+              "https://service.archief.nl/gaf/api/file/v1/default/f355ada4-c1b4-4a39-9bf3-d55417913b4e"
             ]
           }
         }
@@ -2059,12 +2059,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 82 and 83"
+              "https://service.archief.nl/gaf/api/file/v1/default/a8b8c84b-5e4a-4c71-af93-04c513dca7b6"
             ]
           }
         }
@@ -2107,12 +2107,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 84 and 85"
+              "https://service.archief.nl/gaf/api/file/v1/default/febb2dc1-0f3e-453e-bb4d-a38c31ae8a5b"
             ]
           }
         }
@@ -2155,12 +2155,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 86 and 87"
+              "https://service.archief.nl/gaf/api/file/v1/default/4a28b21e-b9b1-4864-a9ca-e1a4c9bc9455"
             ]
           }
         }
@@ -2203,12 +2203,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 88 and 89"
+              "https://service.archief.nl/gaf/api/file/v1/default/5a7ee06a-b15b-43b0-a4af-57ce28a2ab86"
             ]
           }
         }
@@ -2251,12 +2251,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 90 and 91"
+              "https://service.archief.nl/gaf/api/file/v1/default/2a5cf55f-3c90-4172-a774-6d5e20719cc8"
             ]
           }
         }
@@ -2299,12 +2299,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 92 and 93"
+              "https://service.archief.nl/gaf/api/file/v1/default/42c63ad0-1a82-4797-9908-0f5a284ae0e7"
             ]
           }
         }
@@ -2347,12 +2347,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 94 and 95"
+              "https://service.archief.nl/gaf/api/file/v1/default/02dad2b0-8c58-4431-a8fd-d4100989d123"
             ]
           }
         }
@@ -2395,12 +2395,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 96 and 97"
+              "https://service.archief.nl/gaf/api/file/v1/default/581cd64a-1afd-4d57-a3cc-a3c99e18e89c"
             ]
           }
         }
@@ -2443,12 +2443,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 98 and 99"
+              "https://service.archief.nl/gaf/api/file/v1/default/849a45de-ac36-47ed-8199-91c675155112"
             ]
           }
         }
@@ -2491,12 +2491,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 100 and 101"
+              "https://service.archief.nl/gaf/api/file/v1/default/835fe413-653b-46d0-8616-e1ca3251d4d9"
             ]
           }
         }
@@ -2539,12 +2539,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 102 and 103"
+              "https://service.archief.nl/gaf/api/file/v1/default/7a9be690-ea02-4c99-ae2e-2ea55cbae95f"
             ]
           }
         }
@@ -2587,12 +2587,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 104 and 105"
+              "https://service.archief.nl/gaf/api/file/v1/default/c8423c89-cbc3-457f-8668-f1179d87231b"
             ]
           }
         }
@@ -2635,12 +2635,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 106 and 107"
+              "https://service.archief.nl/gaf/api/file/v1/default/ec09b64b-58c1-4d79-a528-35c0fa61c769"
             ]
           }
         }
@@ -2683,12 +2683,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 108 and 109"
+              "https://service.archief.nl/gaf/api/file/v1/default/343d97ea-1f19-4211-90ce-0f3b6077a4c3"
             ]
           }
         }
@@ -2731,12 +2731,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 110 and 111"
+              "https://service.archief.nl/gaf/api/file/v1/default/0fd9369a-7633-4d46-82cd-c4f5ecb2832e"
             ]
           }
         }
@@ -2779,12 +2779,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 112 and 113"
+              "https://service.archief.nl/gaf/api/file/v1/default/26bc5890-a762-492d-9d5a-66bff067ace3"
             ]
           }
         }
@@ -2827,12 +2827,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 114 and 115"
+              "https://service.archief.nl/gaf/api/file/v1/default/18a807bb-d4ce-4272-b4f4-742fab3b36ef"
             ]
           }
         }
@@ -2875,12 +2875,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 116 and 117"
+              "https://service.archief.nl/gaf/api/file/v1/default/ef05e36a-5f3b-44bb-9f08-1467d5ad2bb7"
             ]
           }
         }
@@ -2923,12 +2923,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 118 and 119"
+              "https://service.archief.nl/gaf/api/file/v1/default/b13b37bf-9022-4ed1-af5f-c3d08e299d5c"
             ]
           }
         }
@@ -2971,12 +2971,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 120 and 121"
+              "https://service.archief.nl/gaf/api/file/v1/default/1d434261-c2fe-4efb-82bc-1b08729f151f"
             ]
           }
         }
@@ -3019,12 +3019,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 122 and 123"
+              "https://service.archief.nl/gaf/api/file/v1/default/25d427a5-7540-4b40-975c-c8785659b925"
             ]
           }
         }
@@ -3067,12 +3067,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 124 and 125"
+              "https://service.archief.nl/gaf/api/file/v1/default/a1d53399-eefa-4259-a4f4-3565dfe4aa66"
             ]
           }
         }
@@ -3115,12 +3115,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 126 and 127"
+              "https://service.archief.nl/gaf/api/file/v1/default/d8fa3270-a502-4313-9303-50ef615a798f"
             ]
           }
         }
@@ -3163,12 +3163,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 128 and 129"
+              "https://service.archief.nl/gaf/api/file/v1/default/3bc38cfe-7bf5-49e3-9c15-8addaf546c7f"
             ]
           }
         }
@@ -3211,12 +3211,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 130 and 131"
+              "https://service.archief.nl/gaf/api/file/v1/default/cf22e759-f472-4eb2-9b3e-b44331a178e4"
             ]
           }
         }
@@ -3259,12 +3259,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 132 and 133"
+              "https://service.archief.nl/gaf/api/file/v1/default/e4b4edc8-7785-4ef0-9953-35f53fc86a45"
             ]
           }
         }
@@ -3307,12 +3307,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 134 and 135"
+              "https://service.archief.nl/gaf/api/file/v1/default/e63d4fac-1199-47c7-b28e-b5aa6dc405c2"
             ]
           }
         }
@@ -3355,12 +3355,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 136 and 137"
+              "https://service.archief.nl/gaf/api/file/v1/default/2d8e4976-9f48-4d9d-987d-b52b2c7d28b2"
             ]
           }
         }
@@ -3403,12 +3403,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 138 and 139"
+              "https://service.archief.nl/gaf/api/file/v1/default/fbdaed69-1b16-4f50-9b75-77765cf78ccf"
             ]
           }
         }
@@ -3451,12 +3451,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 140 and 141"
+              "https://service.archief.nl/gaf/api/file/v1/default/0f93b756-39f9-456f-b3dc-a41f72c11d9a"
             ]
           }
         }
@@ -3499,12 +3499,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 142 and 143"
+              "https://service.archief.nl/gaf/api/file/v1/default/80c83890-915c-48b9-a683-e1ee3f9488e1"
             ]
           }
         }
@@ -3547,12 +3547,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 144 and 145"
+              "https://service.archief.nl/gaf/api/file/v1/default/db61288a-0ada-4d7f-9712-0570aeb1e70e"
             ]
           }
         }
@@ -3595,12 +3595,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 146 and 147"
+              "https://service.archief.nl/gaf/api/file/v1/default/40a22b0f-235d-463f-839b-d769b6401859"
             ]
           }
         }
@@ -3643,12 +3643,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 148 and 149"
+              "https://service.archief.nl/gaf/api/file/v1/default/e3382b74-2b44-40d6-93c3-3ae4311b5b51"
             ]
           }
         }
@@ -3691,12 +3691,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 150 and 151"
+              "https://service.archief.nl/gaf/api/file/v1/default/0fe74812-7ee9-46ce-abff-06d5cf378058"
             ]
           }
         }
@@ -3739,12 +3739,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 152 and 153"
+              "https://service.archief.nl/gaf/api/file/v1/default/b32929a8-7cbb-4cc8-a346-6b24a52f0203"
             ]
           }
         }
@@ -3787,12 +3787,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 154 and 155"
+              "https://service.archief.nl/gaf/api/file/v1/default/2e60d961-e075-43a8-838c-c38c68bf3774"
             ]
           }
         }
@@ -3835,12 +3835,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 156 and 157"
+              "https://service.archief.nl/gaf/api/file/v1/default/136534a8-3a8e-4554-aaa1-8d6ae37fc5c5"
             ]
           }
         }
@@ -3883,12 +3883,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 158 and 159"
+              "https://service.archief.nl/gaf/api/file/v1/default/24202573-5637-4b01-890a-67caee5c2a15"
             ]
           }
         }
@@ -3931,12 +3931,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 160 and 161"
+              "https://service.archief.nl/gaf/api/file/v1/default/8d5b6341-97a9-4f05-a49c-44ffce4bf306"
             ]
           }
         }
@@ -3979,12 +3979,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 162 and 163"
+              "https://service.archief.nl/gaf/api/file/v1/default/646a74dc-7a73-41ce-b05d-5b4c0229f702"
             ]
           }
         }
@@ -4027,12 +4027,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 164 and 165"
+              "https://service.archief.nl/gaf/api/file/v1/default/64f134cb-a730-4bde-b0cb-1b14c88cba5b"
             ]
           }
         }
@@ -4075,12 +4075,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 166 and 167"
+              "https://service.archief.nl/gaf/api/file/v1/default/0428dcc7-17ff-4bf6-b32e-bde0f9aed2eb"
             ]
           }
         }
@@ -4123,12 +4123,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 168 and 169"
+              "https://service.archief.nl/gaf/api/file/v1/default/f5990ad6-93cf-421c-8dfb-7f175a8dff4b"
             ]
           }
         }
@@ -4171,12 +4171,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 170 and 171"
+              "https://service.archief.nl/gaf/api/file/v1/default/165102c6-147c-4379-a50e-1c9cab489414"
             ]
           }
         }
@@ -4219,12 +4219,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 172 and 173"
+              "https://service.archief.nl/gaf/api/file/v1/default/b6a3d6b3-a021-47b4-a2d4-18186fef1e20"
             ]
           }
         }
@@ -4267,12 +4267,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 174 and 175"
+              "https://service.archief.nl/gaf/api/file/v1/default/7d5813d3-1fbf-49c7-a02b-16eeb27987a5"
             ]
           }
         }
@@ -4315,12 +4315,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 176 and 177"
+              "https://service.archief.nl/gaf/api/file/v1/default/aeec2414-b714-4c4a-9759-d56085da38a3"
             ]
           }
         }
@@ -4363,12 +4363,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 178 and 179"
+              "https://service.archief.nl/gaf/api/file/v1/default/1cc3baaf-800f-46a9-b665-a388092b576b"
             ]
           }
         }
@@ -4411,12 +4411,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 180 and 181"
+              "https://service.archief.nl/gaf/api/file/v1/default/636acf71-d78f-4ca6-a8b1-b9b14d7e9408"
             ]
           }
         }
@@ -4459,12 +4459,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 182 and 183"
+              "https://service.archief.nl/gaf/api/file/v1/default/cd760c1d-4179-4416-abde-05f35cca62f3"
             ]
           }
         }
@@ -4507,12 +4507,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 184 and 185"
+              "https://service.archief.nl/gaf/api/file/v1/default/e3198e47-910a-4fd3-bba1-502846f6fa5a"
             ]
           }
         }
@@ -4555,12 +4555,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 186 and 187"
+              "https://service.archief.nl/gaf/api/file/v1/default/d3590588-978c-4f37-b0c6-e86f4d96181a"
             ]
           }
         }
@@ -4603,12 +4603,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 188 and 189"
+              "https://service.archief.nl/gaf/api/file/v1/default/cc684010-27b9-4269-856c-230046f08aa3"
             ]
           }
         }
@@ -4651,12 +4651,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 190 and 191"
+              "https://service.archief.nl/gaf/api/file/v1/default/1a2ffac3-99e3-43b7-8ae4-a971d91eb538"
             ]
           }
         }
@@ -4699,12 +4699,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 192 and 193"
+              "https://service.archief.nl/gaf/api/file/v1/default/b7bdcff5-7603-4cd0-b61e-9d2973f90b65"
             ]
           }
         }
@@ -4747,12 +4747,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 194 and 195"
+              "https://service.archief.nl/gaf/api/file/v1/default/fd66438e-81c8-4a8d-a3b7-591daf8f3839"
             ]
           }
         }
@@ -4795,12 +4795,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 196 and 197"
+              "https://service.archief.nl/gaf/api/file/v1/default/3c460432-7d42-4104-a5ca-cb96a1d64e31"
             ]
           }
         }
@@ -4843,12 +4843,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 198 and 199"
+              "https://service.archief.nl/gaf/api/file/v1/default/3d8473b9-e3f2-4c1a-8ee6-18f45eb3905d"
             ]
           }
         }
@@ -4891,12 +4891,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 200 and 201"
+              "https://service.archief.nl/gaf/api/file/v1/default/6c08edb4-d3b2-4a18-9e89-41917ef52f6c"
             ]
           }
         }
@@ -4939,12 +4939,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 202 and 203"
+              "https://service.archief.nl/gaf/api/file/v1/default/78b136f4-8ca8-4f3c-9fc8-099396004f5a"
             ]
           }
         }
@@ -4987,12 +4987,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 204 and 205"
+              "https://service.archief.nl/gaf/api/file/v1/default/79254ff5-e00e-47aa-88f5-d4c2277413e3"
             ]
           }
         }
@@ -5035,12 +5035,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 206 and 207"
+              "https://service.archief.nl/gaf/api/file/v1/default/10ad7809-1550-468a-b31c-c07decd4e942"
             ]
           }
         }
@@ -5083,12 +5083,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 208 and 209"
+              "https://service.archief.nl/gaf/api/file/v1/default/4ce66307-8e40-4dd7-ae3e-bf9bee0faeff"
             ]
           }
         }
@@ -5131,12 +5131,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 210 and 211"
+              "https://service.archief.nl/gaf/api/file/v1/default/e5127159-f684-4444-808a-8c17e6b4429d"
             ]
           }
         }
@@ -5179,12 +5179,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 212 and 213"
+              "https://service.archief.nl/gaf/api/file/v1/default/ed1ee903-b101-4d20-938c-bc9355cefae4"
             ]
           }
         }
@@ -5227,12 +5227,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 214 and 215"
+              "https://service.archief.nl/gaf/api/file/v1/default/7e403cc4-2a9e-418b-8ca3-bd4d7929e784"
             ]
           }
         }
@@ -5275,12 +5275,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 216 and 217"
+              "https://service.archief.nl/gaf/api/file/v1/default/bed1a71d-6b8b-4698-84f5-537f37156b44"
             ]
           }
         }
@@ -5323,12 +5323,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 218 and 219"
+              "https://service.archief.nl/gaf/api/file/v1/default/97119dd8-1d0b-4f12-97b8-c0b500e98a4d"
             ]
           }
         }
@@ -5371,12 +5371,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 220 and 221"
+              "https://service.archief.nl/gaf/api/file/v1/default/a3685566-7239-4644-9c08-fc06e7adabf0"
             ]
           }
         }
@@ -5419,12 +5419,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 222 and 223"
+              "https://service.archief.nl/gaf/api/file/v1/default/225abbab-4c85-4787-9d4d-2765af9f79db"
             ]
           }
         }
@@ -5467,12 +5467,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 224 and 225"
+              "https://service.archief.nl/gaf/api/file/v1/default/3838d112-16d9-4f48-9a3e-0a5fdbe8ba0e"
             ]
           }
         }
@@ -5515,12 +5515,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 226 and 227"
+              "https://service.archief.nl/gaf/api/file/v1/default/f884012d-e65f-4f89-be77-1af14d9d99af"
             ]
           }
         }
@@ -5563,12 +5563,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 228 and 229"
+              "https://service.archief.nl/gaf/api/file/v1/default/19f09b2e-4f92-4ee1-ad8f-7745c2969235"
             ]
           }
         }
@@ -5611,12 +5611,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 230 and 231"
+              "https://service.archief.nl/gaf/api/file/v1/default/ec75ac26-fa7c-4802-80f4-4f0fdc2a157a"
             ]
           }
         }
@@ -5659,12 +5659,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 232 and 233"
+              "https://service.archief.nl/gaf/api/file/v1/default/31b9b135-be3a-432f-a961-89849ab31e5b"
             ]
           }
         }
@@ -5707,12 +5707,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 234 and 235"
+              "https://service.archief.nl/gaf/api/file/v1/default/8de09024-1824-4665-b945-ad60793c51ca"
             ]
           }
         }
@@ -5755,12 +5755,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 236 and 237"
+              "https://service.archief.nl/gaf/api/file/v1/default/8cd45c1c-4255-4ad7-aef7-5b674f329675"
             ]
           }
         }
@@ -5803,12 +5803,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 238 and 239"
+              "https://service.archief.nl/gaf/api/file/v1/default/62a48b6e-bc03-43f6-b9ac-4306a759fd27"
             ]
           }
         }
@@ -5851,12 +5851,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 240 and 241"
+              "https://service.archief.nl/gaf/api/file/v1/default/ed68e890-5739-4cff-9a31-d02aa437d55e"
             ]
           }
         }
@@ -5899,12 +5899,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 242 and 243"
+              "https://service.archief.nl/gaf/api/file/v1/default/49bc89cf-6e17-4437-9417-f67c2b8548fe"
             ]
           }
         }
@@ -5947,12 +5947,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 244 and 245"
+              "https://service.archief.nl/gaf/api/file/v1/default/efa17862-c043-49ce-a2df-cedbc7d39d8a"
             ]
           }
         }
@@ -5995,12 +5995,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 246 and 247"
+              "https://service.archief.nl/gaf/api/file/v1/default/a65a7867-a364-49a5-8b39-8b8c1888fc70"
             ]
           }
         }
@@ -6043,12 +6043,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 248 and 249"
+              "https://service.archief.nl/gaf/api/file/v1/default/1089cd42-bf00-4ce6-ab95-b5ae7b0b0cb0"
             ]
           }
         }
@@ -6091,12 +6091,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 250 and 251"
+              "https://service.archief.nl/gaf/api/file/v1/default/9cddf3d1-3f9d-4c23-88a0-0cd7af50fa0f"
             ]
           }
         }
@@ -6139,12 +6139,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 252 and 253"
+              "https://service.archief.nl/gaf/api/file/v1/default/8b540a9d-e37e-4b11-97a2-560f46556d38"
             ]
           }
         }
@@ -6187,12 +6187,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 254 and 255"
+              "https://service.archief.nl/gaf/api/file/v1/default/aa43e288-f8a9-40b5-adc0-4d9bb013f082"
             ]
           }
         }
@@ -6235,12 +6235,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 256 and 257"
+              "https://service.archief.nl/gaf/api/file/v1/default/df655428-6893-40f3-a75f-b74c968f5c30"
             ]
           }
         }
@@ -6283,12 +6283,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 258 and 259"
+              "https://service.archief.nl/gaf/api/file/v1/default/65c68d5a-6eba-4053-93f5-9cec3a7c02be"
             ]
           }
         }
@@ -6331,12 +6331,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 260 and 261"
+              "https://service.archief.nl/gaf/api/file/v1/default/3dfb9f68-51cd-410c-a3fb-0100269328e4"
             ]
           }
         }
@@ -6379,12 +6379,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 262 and 263"
+              "https://service.archief.nl/gaf/api/file/v1/default/0d2b358c-b75d-4d77-871d-501bc0a868ac"
             ]
           }
         }
@@ -6427,12 +6427,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 264 and 265"
+              "https://service.archief.nl/gaf/api/file/v1/default/8e295b3d-f01a-493d-a37f-b879fd682999"
             ]
           }
         }
@@ -6475,12 +6475,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 266 and 267"
+              "https://service.archief.nl/gaf/api/file/v1/default/b4fbba2c-e480-4e92-9cbb-b0f376f292f0"
             ]
           }
         }
@@ -6523,12 +6523,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 268 and 269"
+              "https://service.archief.nl/gaf/api/file/v1/default/e69457f5-cd80-4a94-98fe-3b650f37df7f"
             ]
           }
         }
@@ -6571,12 +6571,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 270 and 271"
+              "https://service.archief.nl/gaf/api/file/v1/default/76587897-07cb-4a09-86b1-68d1bdd4146a"
             ]
           }
         }
@@ -6619,12 +6619,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 272 and 273"
+              "https://service.archief.nl/gaf/api/file/v1/default/ffb4b8ae-e18e-47d7-bc17-c66e0143219b"
             ]
           }
         }
@@ -6667,12 +6667,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 274 and 275"
+              "https://service.archief.nl/gaf/api/file/v1/default/4e8a4732-9fa8-46b3-b2aa-7089643d72da"
             ]
           }
         }
@@ -6715,12 +6715,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 276 and 277"
+              "https://service.archief.nl/gaf/api/file/v1/default/0898a6e4-cb6f-4bd0-b503-80e354d10319"
             ]
           }
         }
@@ -6763,12 +6763,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 278 and 279"
+              "https://service.archief.nl/gaf/api/file/v1/default/0240275a-dda7-4309-a729-44f3d51e14ae"
             ]
           }
         }
@@ -6811,12 +6811,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 280 and 281"
+              "https://service.archief.nl/gaf/api/file/v1/default/5567339b-6d4a-453f-ae46-7f4f477ed308"
             ]
           }
         }
@@ -6859,12 +6859,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 282 and 283"
+              "https://service.archief.nl/gaf/api/file/v1/default/523c54d2-ff1b-4f9a-bc15-79816cbabcea"
             ]
           }
         }
@@ -6907,12 +6907,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 284 and 285"
+              "https://service.archief.nl/gaf/api/file/v1/default/dc31adce-2adc-4fa2-8087-256186f15ec7"
             ]
           }
         }
@@ -6955,12 +6955,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 286 and 287"
+              "https://service.archief.nl/gaf/api/file/v1/default/c3538605-0f5d-41fe-8c2e-553f85d94941"
             ]
           }
         }
@@ -7003,12 +7003,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 288 and 289"
+              "https://service.archief.nl/gaf/api/file/v1/default/c00dcd90-a6a2-433d-9c55-d89bc8d6f66a"
             ]
           }
         }
@@ -7051,12 +7051,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 290 and 291"
+              "https://service.archief.nl/gaf/api/file/v1/default/82cfeea8-110e-40af-8f96-ddd589628bc1"
             ]
           }
         }
@@ -7099,12 +7099,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 292 and 293"
+              "https://service.archief.nl/gaf/api/file/v1/default/ac7e2fdd-a9c7-4452-a3d8-eae6556d3c57"
             ]
           }
         }
@@ -7147,12 +7147,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 294 and 295"
+              "https://service.archief.nl/gaf/api/file/v1/default/ed39f293-4149-4e09-a5bf-8f60f6b9e0f2"
             ]
           }
         }
@@ -7195,12 +7195,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 296 and 297"
+              "https://service.archief.nl/gaf/api/file/v1/default/e46c91ee-fe41-4b50-9222-933a6585d7d9"
             ]
           }
         }
@@ -7243,12 +7243,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 298 and 299"
+              "https://service.archief.nl/gaf/api/file/v1/default/eb2fae53-bdfe-467b-9402-5478dd2b47af"
             ]
           }
         }
@@ -7291,12 +7291,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 300 and 301"
+              "https://service.archief.nl/gaf/api/file/v1/default/b2b2d46b-e468-4ee2-be6e-2e6ef1ba8d53"
             ]
           }
         }
@@ -7339,12 +7339,12 @@
         {
           "label": {
             "nl": [
-              "Canvas Label"
+              "download original image"
             ]
           },
           "value": {
             "nl": [
-              "Canvas description for folio folio 302"
+              "https://service.archief.nl/gaf/api/file/v1/default/52536d7f-5992-436d-8e6e-7e0bce050b5e"
             ]
           }
         }
