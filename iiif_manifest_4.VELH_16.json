@@ -1,1 +1,158 @@
-ewogICJAY29udGV4dCI6ICJodHRwOi8vaWlpZi5pby9hcGkvcHJlc2VudGF0aW9uLzMvY29udGV4dC5qc29uIiwKICAiaWQiOiAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3NpbW9uY2tlbXBlci9OTC1IYU5BX2lpaWZfbWFuaWZlc3RzL21haW4vaWlpZl9tYW5pZmVzdF80LlZFTEhfMTYuanNvbiIsCiAgInR5cGUiOiAiTWFuaWZlc3QiLAogICJsYWJlbCI6IHsKICAgICJubCI6IFsKICAgICAgIjQuVkVMSF8xNiIKICAgIF0KICB9LAogICJtZXRhZGF0YSI6IFsKICAgIHsKICAgICAgImxhYmVsIjogewogICAgICAgICJubCI6IFsKICAgICAgICAgICJJbnZlbnRvcnkgbnVtYmVyLCByZWNvcmQgbnVtYmVyIGFuZCBwYWdlIgogICAgICAgIF0KICAgICAgfSwKICAgICAgInZhbHVlIjogewogICAgICAgICJubCI6IFsKICAgICAgICAgICJNYW5pZmVzdCBkZXNjcmlwdGlvbiBmb3IgNC5WRUxILCAxNiwgMSIKICAgICAgICBdCiAgICAgIH0KICAgIH0sCiAgICB7CiAgICAgICJsYWJlbCI6IHsKICAgICAgICAibmwiOiBbCiAgICAgICAgICAiUmVjb3JkIHRpdGxlIgogICAgICAgIF0KICAgICAgfSwKICAgICAgInZhbHVlIjogewogICAgICAgICJubCI6IFsKICAgICAgICAgICJLYWFydCB2YW4gZGUgXCJ2bGFnZ2VuIHdlbGtlIG1ldCBnb2VkdmluZGVuIHZhbiBkZW4gS2VpanplciBvcCBkZSBzY2hlZXBlbiB2YW4gemlqbmUgb25kZXJkYW5lbiBnZWJydWlrdCB3b3JkZW5cIi4iCiAgICAgICAgXQogICAgICB9CiAgICB9LAogICAgewogICAgICAibGFiZWwiOiB7CiAgICAgICAgIm5sIjogWwogICAgICAgICAgIkRhdGUgb2YgcmVjb3JkIgogICAgICAgIF0KICAgICAgfSwKICAgICAgInZhbHVlIjogewogICAgICAgICJubCI6IFsKICAgICAgICAgICJFaW5kZSAxOGUgZWV1dy4iCiAgICAgICAgXQogICAgICB9CiAgICB9LAogICAgewogICAgICAibGFiZWwiOiB7CiAgICAgICAgIm5sIjogWwogICAgICAgICAgIlBoeXNpY2FsIHN0YXRlIG9mIHJlY29yZCIKICAgICAgICBdCiAgICAgIH0sCiAgICAgICJ2YWx1ZSI6IHsKICAgICAgICAibmwiOiBbCiAgICAgICAgICAiXG4gICAgICAgICAgICAgICAgICAgICAgIgogICAgICAgIF0KICAgICAgfQogICAgfSwKICAgIHsKICAgICAgImxhYmVsIjogewogICAgICAgICJubCI6IFsKICAgICAgICAgICJUaGlzIHJlY29yZHMgaXMgcGFydCBvZiB0aGUgY29sbGVjdGlvbjoiCiAgICAgICAgXQogICAgICB9LAogICAgICAidmFsdWUiOiB7CiAgICAgICAgIm5sIjogWwogICAgICAgICAgIjAiCiAgICAgICAgXQogICAgICB9CiAgICB9LAogICAgewogICAgICAibGFiZWwiOiB7CiAgICAgICAgIm5sIjogWwogICAgICAgICAgIlRoaXMgcmVjb3JkcyBpcyBjbGFzc2lmaWVkIGFzOiIKICAgICAgICBdCiAgICAgIH0sCiAgICAgICJ2YWx1ZSI6IHsKICAgICAgICAibmwiOiBbCiAgICAgICAgICAia2FhcnQiCiAgICAgICAgXQogICAgICB9CiAgICB9LAogICAgewogICAgICAibGFiZWwiOiB7CiAgICAgICAgIm5sIjogWwogICAgICAgICAgImFzc29jaWF0ZWQgb3JnYW5pc2F0aW9ucyIKICAgICAgICBdCiAgICAgIH0sCiAgICAgICJ2YWx1ZSI6IHsKICAgICAgICAibmwiOiBbCiAgICAgICAgICAieydTdGF0ZW4gdmFuIEhvbGxhbmQgZW4gV2VzdC1Gcmllc2xhbmQnLCAnUmFhZCBkZXIgS29sb25pXHUwMGVibiBpbiBXZXN0LUluZGlcdTAwZWInLCAnS2FtZXIgWmVlbGFuZCcsICdDb21taXNzaWUgQmVwYWxpbmcgTGVuZ3RlIG9wIFplZSBWZXJiZXRlcmluZyB2LiBaZWVrYWFydGVuJywgJ091ZCBBcmNoaWVmIFN1cmluYW1lOiBHb3V2ZXJuZW1lbnRzc2VjcmV0YXJpZScsICdDb21pdFx1MDBlOSB0b3QgZGUgT29zdC1JbmRpc2NoZSBIYW5kZWwgZW4gQmV6aXR0aW5nZW4nLCAnVmVyZW5pZ2RlIE9vc3RpbmRpc2NoZSBDb21wYWduaWUnLCAnQWxnZW1lbmUgRGlyZWN0aWUnLCAnRGVwYXJ0ZW1lbnQgdmFuIGRlIEVxdWlwYWdlJywgJ0RpcmVjdGllIGFkIGludGVyaW0gdm9vciBkZSBXZXN0aW5kaXNjaGUgS29sb25pXHUwMGVibicsICdEZXBvdC1HZW5lcmFhbCB2YW4gT29ybG9nJywgJ1JhYWQgZGVyIEFtZXJpa2FhbnNlIEJleml0dGluZ2VuIGVuIEV0YWJsaXNzZW1lbnRlbicsICdEaXJlY3RpZSB2YW4gZGUgU29jaVx1MDBlYnRlaXQgdmFuIEJlcmJpY2UnLCAnQ29sbGVnZSB0ZXIgQWRtaXJhbGl0ZWl0IHRlIEFtc3RlcmRhbScsICdXZXN0aW5kaXNjaGUgQ29tcGFnbmllJywgJ01pbmlzdGVyaWUgdmFuIE1hcmluZSBlbiBLb2xvbmlcdTAwZWJuJywgJ0NvbWl0XHUwMGU5IHRvdCBkZSBaYWtlbiBLb2xvbmlcdTAwZWJuIGVuIEJleml0dGluZ2VuIG9wIGRlIEt1c3QgR3VpbmVhIGVuIGluIEFtZXJpa2EnLCAnRGlyZWN0aWUgdmFuIGRlIFNvY2lcdTAwZWJ0ZWl0IHZhbiBTdXJpbmFtZScsICdSYWFkIGRlciBBemlhdGlzY2hlIEJleml0dGluZ2VuIGVuIEV0YWJsaXNzZW1lbnRlbicsICdNaW5pc3RlcmllIHZhbiBLb29waGFuZGVsIGVuIEtvbG9uaVx1MDBlYm4nLCAnS2FtZXIgQW1zdGVyZGFtJywgJ0hvbGxhbmRzZSBEaXZpc2llJ30iCiAgICAgICAgXQogICAgICB9CiAgICB9LAogICAgewogICAgICAibGFiZWwiOiB7CiAgICAgICAgIm5sIjogWwogICAgICAgICAgImFzc29jaWF0ZWQgZmFtaWxpZXMiCiAgICAgICAgXQogICAgICB9LAogICAgICAidmFsdWUiOiB7CiAgICAgICAgIm5sIjogWwogICAgICAgICAgIltdIgogICAgICAgIF0KICAgICAgfQogICAgfQogIF0sCiAgIml0ZW1zIjogWwogICAgewogICAgICAiaWQiOiAiaHR0cHM6Ly9zZXJ2aWNlLmFyY2hpZWYubmwvaWlwL2M0LzVhL2Q1LzRiLzdmLzE3LzQyL2VjLzkxLzViLzc1LzgwLzM5LzYwL2Y4LzZhLzhmZjJlYzJmLWVlMjYtNGRkOS1hNzdmLTljYjk3NDJhYjBmYy5qcDIvaW5mby5qc29uL2NhbnZhcy9wMSIsCiAgICAgICJ0eXBlIjogIkNhbnZhcyIsCiAgICAgICJoZWlnaHQiOiA2MzM2LAogICAgICAid2lkdGgiOiA3Mzg5LAogICAgICAibWV0YWRhdGEiOiBbCiAgICAgICAgewogICAgICAgICAgImxhYmVsIjogewogICAgICAgICAgICAibmwiOiBbCiAgICAgICAgICAgICAgImRvd25sb2FkIG9yaWdpbmFsIGltYWdlIgogICAgICAgICAgICBdCiAgICAgICAgICB9LAogICAgICAgICAgInZhbHVlIjogewogICAgICAgICAgICAibmwiOiBbCiAgICAgICAgICAgICAgImh0dHBzOi8vc2VydmljZS5hcmNoaWVmLm5sL2dhZi9hcGkvZmlsZS92MS9kZWZhdWx0LzhmZjJlYzJmLWVlMjYtNGRkOS1hNzdmLTljYjk3NDJhYjBmYyIKICAgICAgICAgICAgXQogICAgICAgICAgfQogICAgICAgIH0KICAgICAgXSwKICAgICAgIml0ZW1zIjogWwogICAgICAgIHsKICAgICAgICAgICJpZCI6ICJodHRwczovL3NlcnZpY2UuYXJjaGllZi5ubC9paXAvYzQvNWEvZDUvNGIvN2YvMTcvNDIvZWMvOTEvNWIvNzUvODAvMzkvNjAvZjgvNmEvOGZmMmVjMmYtZWUyNi00ZGQ5LWE3N2YtOWNiOTc0MmFiMGZjLmpwMi9pbmZvLmpzb24vY2FudmFzL3AxL2Fubm90YXRpb24iLAogICAgICAgICAgInR5cGUiOiAiQW5ub3RhdGlvblBhZ2UiLAogICAgICAgICAgIml0ZW1zIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgImlkIjogImh0dHBzOi8vc2VydmljZS5hcmNoaWVmLm5sL2lpcC9jNC81YS9kNS80Yi83Zi8xNy80Mi9lYy85MS81Yi83NS84MC8zOS82MC9mOC82YS84ZmYyZWMyZi1lZTI2LTRkZDktYTc3Zi05Y2I5NzQyYWIwZmMuanAyL2luZm8uanNvbi9jYW52YXMvcDEvYW5ub3RhdGlvbi8xIiwKICAgICAgICAgICAgICAidHlwZSI6ICJBbm5vdGF0aW9uIiwKICAgICAgICAgICAgICAibW90aXZhdGlvbiI6ICJwYWludGluZyIsCiAgICAgICAgICAgICAgImJvZHkiOiB7CiAgICAgICAgICAgICAgICAiaWQiOiAiaHR0cHM6Ly9zZXJ2aWNlLmFyY2hpZWYubmwvaWlwc3J2P0lJSUY9L2Y4LzhmZjJlYzJmLWVlMjYtNGRkOS1hNzdmLTljYjk3NDJhYjBmY1xcLmpwMi9mdWxsL2Z1bGwvMC9kZWZhdWx0XFwuanAyIiwKICAgICAgICAgICAgICAgICJ0eXBlIjogIkltYWdlIiwKICAgICAgICAgICAgICAgICJmb3JtYXQiOiAiaW1hZ2UvanBlZyIsCiAgICAgICAgICAgICAgICAiaGVpZ2h0IjogNjMzNiwKICAgICAgICAgICAgICAgICJ3aWR0aCI6IDczODksCiAgICAgICAgICAgICAgICAic2VydmljZSI6IFsKICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJpZCI6ICJodHRwczovL3NlcnZpY2UuYXJjaGllZi5ubC9paXBzcnY/SUlJRj0vYzQvNWEvZDUvNGIvN2YvMTcvNDIvZWMvOTEvNWIvNzUvODAvMzkvNjAvZjgvNmEvOGZmMmVjMmYtZWUyNi00ZGQ5LWE3N2YtOWNiOTc0MmFiMGZjLmpwMiIsCiAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAiSW1hZ2VTZXJ2aWNlMyIsCiAgICAgICAgICAgICAgICAgICAgInByb2ZpbGUiOiAibGV2ZWwxIgogICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAidGFyZ2V0IjogImh0dHBzOi8vc2VydmljZS5hcmNoaWVmLm5sL2lpcC9jNC81YS9kNS80Yi83Zi8xNy80Mi9lYy85MS81Yi83NS84MC8zOS82MC9mOC82YS84ZmYyZWMyZi1lZTI2LTRkZDktYTc3Zi05Y2I5NzQyYWIwZmMuanAyL2luZm8uanNvbi9jYW52YXMvcDEiCiAgICAgICAgICAgIH0KICAgICAgICAgIF0KICAgICAgICB9CiAgICAgIF0KICAgIH0KICBdCn0=
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.VELH_16.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.VELH_16"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.VELH, 16, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kaart van de \"vlaggen welke met goedvinden van den Keijzer op de scheepen van zijne onderdanen gebruikt worden\"."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Date of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Einde 18e eeuw."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Physical state of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "\n                      "
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This records is part of the collection:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "0"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This records is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Staten van Holland en West-Friesland', 'Raad der Koloni\u00ebn in West-Indi\u00eb', 'Kamer Zeeland', 'Commissie Bepaling Lengte op Zee Verbetering v. Zeekaarten', 'Oud Archief Suriname: Gouvernementssecretarie', 'Comit\u00e9 tot de Oost-Indische Handel en Bezittingen', 'Verenigde Oostindische Compagnie', 'Algemene Directie', 'Departement van de Equipage', 'Directie ad interim voor de Westindische Koloni\u00ebn', 'Depot-Generaal van Oorlog', 'Raad der Amerikaanse Bezittingen en Etablissementen', 'Directie van de Soci\u00ebteit van Berbice', 'College ter Admiraliteit te Amsterdam', 'Westindische Compagnie', 'Ministerie van Marine en Koloni\u00ebn', 'Comit\u00e9 tot de Zaken Koloni\u00ebn en Bezittingen op de Kust Guinea en in Amerika', 'Directie van de Soci\u00ebteit van Suriname', 'Raad der Aziatische Bezittingen en Etablissementen', 'Ministerie van Koophandel en Koloni\u00ebn', 'Kamer Amsterdam', 'Hollandse Divisie'}"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated families"
+        ]
+      },
+      "value": {
+        "nl": [
+          "[]"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/c4/5a/d5/4b/7f/17/42/ec/91/5b/75/80/39/60/f8/6a/8ff2ec2f-ee26-4dd9-a77f-9cb9742ab0fc.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 6336,
+      "width": 7389,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/8ff2ec2f-ee26-4dd9-a77f-9cb9742ab0fc"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/c4/5a/d5/4b/7f/17/42/ec/91/5b/75/80/39/60/f8/6a/8ff2ec2f-ee26-4dd9-a77f-9cb9742ab0fc.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/c4/5a/d5/4b/7f/17/42/ec/91/5b/75/80/39/60/f8/6a/8ff2ec2f-ee26-4dd9-a77f-9cb9742ab0fc.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/f8/8ff2ec2f-ee26-4dd9-a77f-9cb9742ab0fc\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6336,
+                "width": 7389,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/c4/5a/d5/4b/7f/17/42/ec/91/5b/75/80/39/60/f8/6a/8ff2ec2f-ee26-4dd9-a77f-9cb9742ab0fc.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/c4/5a/d5/4b/7f/17/42/ec/91/5b/75/80/39/60/f8/6a/8ff2ec2f-ee26-4dd9-a77f-9cb9742ab0fc.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
