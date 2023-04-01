@@ -59,12 +59,36 @@
     {
       "label": {
         "nl": [
+          "This records is part of the collection:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "0"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This records is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
           "associated organisations"
         ]
       },
       "value": {
         "nl": [
-          "{'Raad der Koloni\u00ebn in West-Indi\u00eb', 'Departement van de Equipage', 'Raad der Aziatische Bezittingen en Etablissementen', 'Oud Archief Suriname: Gouvernementssecretarie', 'Comit\u00e9 tot de Zaken Koloni\u00ebn en Bezittingen op de Kust Guinea en in Amerika', 'Westindische Compagnie', 'Directie van de Soci\u00ebteit van Suriname', 'Verenigde Oostindische Compagnie', 'Depot-Generaal van Oorlog', 'Directie van de Soci\u00ebteit van Berbice', 'College ter Admiraliteit te Amsterdam', 'Comit\u00e9 tot de Oost-Indische Handel en Bezittingen', 'Commissie Bepaling Lengte op Zee Verbetering v. Zeekaarten', 'Staten van Holland en West-Friesland', 'Kamer Zeeland', 'Ministerie van Marine en Koloni\u00ebn', 'Algemene Directie', 'Kamer Amsterdam', 'Hollandse Divisie', 'Raad der Amerikaanse Bezittingen en Etablissementen', 'Directie ad interim voor de Westindische Koloni\u00ebn', 'Ministerie van Koophandel en Koloni\u00ebn'}"
+          "{'Staten van Holland en West-Friesland', 'Raad der Koloni\u00ebn in West-Indi\u00eb', 'Kamer Zeeland', 'Commissie Bepaling Lengte op Zee Verbetering v. Zeekaarten', 'Oud Archief Suriname: Gouvernementssecretarie', 'Comit\u00e9 tot de Oost-Indische Handel en Bezittingen', 'Verenigde Oostindische Compagnie', 'Algemene Directie', 'Departement van de Equipage', 'Directie ad interim voor de Westindische Koloni\u00ebn', 'Depot-Generaal van Oorlog', 'Raad der Amerikaanse Bezittingen en Etablissementen', 'Directie van de Soci\u00ebteit van Berbice', 'College ter Admiraliteit te Amsterdam', 'Westindische Compagnie', 'Ministerie van Marine en Koloni\u00ebn', 'Comit\u00e9 tot de Zaken Koloni\u00ebn en Bezittingen op de Kust Guinea en in Amerika', 'Directie van de Soci\u00ebteit van Suriname', 'Raad der Aziatische Bezittingen en Etablissementen', 'Ministerie van Koophandel en Koloni\u00ebn', 'Kamer Amsterdam', 'Hollandse Divisie'}"
         ]
       }
     },
