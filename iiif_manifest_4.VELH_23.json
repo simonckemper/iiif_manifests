@@ -1,1 +1,158 @@
-ewogICJAY29udGV4dCI6ICJodHRwOi8vaWlpZi5pby9hcGkvcHJlc2VudGF0aW9uLzMvY29udGV4dC5qc29uIiwKICAiaWQiOiAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3NpbW9uY2tlbXBlci9OTC1IYU5BX2lpaWZfbWFuaWZlc3RzL21haW4vaWlpZl9tYW5pZmVzdF80LlZFTEhfMjMuanNvbiIsCiAgInR5cGUiOiAiTWFuaWZlc3QiLAogICJsYWJlbCI6IHsKICAgICJubCI6IFsKICAgICAgIjQuVkVMSF8yMyIKICAgIF0KICB9LAogICJtZXRhZGF0YSI6IFsKICAgIHsKICAgICAgImxhYmVsIjogewogICAgICAgICJubCI6IFsKICAgICAgICAgICJJbnZlbnRvcnkgbnVtYmVyLCByZWNvcmQgbnVtYmVyIGFuZCBwYWdlIgogICAgICAgIF0KICAgICAgfSwKICAgICAgInZhbHVlIjogewogICAgICAgICJubCI6IFsKICAgICAgICAgICJNYW5pZmVzdCBkZXNjcmlwdGlvbiBmb3IgNC5WRUxILCAyMywgMSIKICAgICAgICBdCiAgICAgIH0KICAgIH0sCiAgICB7CiAgICAgICJsYWJlbCI6IHsKICAgICAgICAibmwiOiBbCiAgICAgICAgICAiUmVjb3JkIHRpdGxlIgogICAgICAgIF0KICAgICAgfSwKICAgICAgInZhbHVlIjogewogICAgICAgICJubCI6IFsKICAgICAgICAgICJLYWFydCB2YW4gU3BpdHNiZXJnZW4gZW4gb21nZXZpbmcgb3BnZW1hYWt0IG5hYXIgZGUgd2Fhcm5lbWluZ2VuIGdlZGFhbiBkb29yIGRlIFp3ZWVkc2NoZSBOb29yZHBvb2xleHBlZGl0aWUgb25kZXIgRHVuXHUwMGU5ciBlbiBOb3JkZW5za2lcdTAwZjZsZCBpbiAxODYxLTE4NjQuIgogICAgICAgIF0KICAgICAgfQogICAgfSwKICAgIHsKICAgICAgImxhYmVsIjogewogICAgICAgICJubCI6IFsKICAgICAgICAgICJEYXRlIG9mIHJlY29yZCIKICAgICAgICBdCiAgICAgIH0sCiAgICAgICJ2YWx1ZSI6IHsKICAgICAgICAibmwiOiBbCiAgICAgICAgICAiMTg3NiIKICAgICAgICBdCiAgICAgIH0KICAgIH0sCiAgICB7CiAgICAgICJsYWJlbCI6IHsKICAgICAgICAibmwiOiBbCiAgICAgICAgICAiUGh5c2ljYWwgc3RhdGUgb2YgcmVjb3JkIgogICAgICAgIF0KICAgICAgfSwKICAgICAgInZhbHVlIjogewogICAgICAgICJubCI6IFsKICAgICAgICAgICJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgIgogICAgICAgIF0KICAgICAgfQogICAgfSwKICAgIHsKICAgICAgImxhYmVsIjogewogICAgICAgICJubCI6IFsKICAgICAgICAgICJUaGlzIHJlY29yZHMgaXMgcGFydCBvZiB0aGUgY29sbGVjdGlvbjoiCiAgICAgICAgXQogICAgICB9LAogICAgICAidmFsdWUiOiB7CiAgICAgICAgIm5sIjogWwogICAgICAgICAgIjAiCiAgICAgICAgXQogICAgICB9CiAgICB9LAogICAgewogICAgICAibGFiZWwiOiB7CiAgICAgICAgIm5sIjogWwogICAgICAgICAgIlRoaXMgcmVjb3JkcyBpcyBjbGFzc2lmaWVkIGFzOiIKICAgICAgICBdCiAgICAgIH0sCiAgICAgICJ2YWx1ZSI6IHsKICAgICAgICAibmwiOiBbCiAgICAgICAgICAia2FhcnQiCiAgICAgICAgXQogICAgICB9CiAgICB9LAogICAgewogICAgICAibGFiZWwiOiB7CiAgICAgICAgIm5sIjogWwogICAgICAgICAgImFzc29jaWF0ZWQgb3JnYW5pc2F0aW9ucyIKICAgICAgICBdCiAgICAgIH0sCiAgICAgICJ2YWx1ZSI6IHsKICAgICAgICAibmwiOiBbCiAgICAgICAgICAieydTdGF0ZW4gdmFuIEhvbGxhbmQgZW4gV2VzdC1Gcmllc2xhbmQnLCAnUmFhZCBkZXIgS29sb25pXHUwMGVibiBpbiBXZXN0LUluZGlcdTAwZWInLCAnS2FtZXIgWmVlbGFuZCcsICdDb21taXNzaWUgQmVwYWxpbmcgTGVuZ3RlIG9wIFplZSBWZXJiZXRlcmluZyB2LiBaZWVrYWFydGVuJywgJ091ZCBBcmNoaWVmIFN1cmluYW1lOiBHb3V2ZXJuZW1lbnRzc2VjcmV0YXJpZScsICdDb21pdFx1MDBlOSB0b3QgZGUgT29zdC1JbmRpc2NoZSBIYW5kZWwgZW4gQmV6aXR0aW5nZW4nLCAnVmVyZW5pZ2RlIE9vc3RpbmRpc2NoZSBDb21wYWduaWUnLCAnQWxnZW1lbmUgRGlyZWN0aWUnLCAnRGVwYXJ0ZW1lbnQgdmFuIGRlIEVxdWlwYWdlJywgJ0RpcmVjdGllIGFkIGludGVyaW0gdm9vciBkZSBXZXN0aW5kaXNjaGUgS29sb25pXHUwMGVibicsICdEZXBvdC1HZW5lcmFhbCB2YW4gT29ybG9nJywgJ1JhYWQgZGVyIEFtZXJpa2FhbnNlIEJleml0dGluZ2VuIGVuIEV0YWJsaXNzZW1lbnRlbicsICdEaXJlY3RpZSB2YW4gZGUgU29jaVx1MDBlYnRlaXQgdmFuIEJlcmJpY2UnLCAnQ29sbGVnZSB0ZXIgQWRtaXJhbGl0ZWl0IHRlIEFtc3RlcmRhbScsICdXZXN0aW5kaXNjaGUgQ29tcGFnbmllJywgJ01pbmlzdGVyaWUgdmFuIE1hcmluZSBlbiBLb2xvbmlcdTAwZWJuJywgJ0NvbWl0XHUwMGU5IHRvdCBkZSBaYWtlbiBLb2xvbmlcdTAwZWJuIGVuIEJleml0dGluZ2VuIG9wIGRlIEt1c3QgR3VpbmVhIGVuIGluIEFtZXJpa2EnLCAnRGlyZWN0aWUgdmFuIGRlIFNvY2lcdTAwZWJ0ZWl0IHZhbiBTdXJpbmFtZScsICdSYWFkIGRlciBBemlhdGlzY2hlIEJleml0dGluZ2VuIGVuIEV0YWJsaXNzZW1lbnRlbicsICdNaW5pc3RlcmllIHZhbiBLb29waGFuZGVsIGVuIEtvbG9uaVx1MDBlYm4nLCAnS2FtZXIgQW1zdGVyZGFtJywgJ0hvbGxhbmRzZSBEaXZpc2llJ30iCiAgICAgICAgXQogICAgICB9CiAgICB9LAogICAgewogICAgICAibGFiZWwiOiB7CiAgICAgICAgIm5sIjogWwogICAgICAgICAgImFzc29jaWF0ZWQgZmFtaWxpZXMiCiAgICAgICAgXQogICAgICB9LAogICAgICAidmFsdWUiOiB7CiAgICAgICAgIm5sIjogWwogICAgICAgICAgIltdIgogICAgICAgIF0KICAgICAgfQogICAgfQogIF0sCiAgIml0ZW1zIjogWwogICAgewogICAgICAiaWQiOiAiaHR0cHM6Ly9zZXJ2aWNlLmFyY2hpZWYubmwvaWlwLzA2L2YzLzUwL2FmLzQ1L2U0LzQyLzNjL2E2LzU1LzBkLzllLzlhL2MwLzkyL2RkLzRkZTU3NDY3LWNiNmItNGZkZi1iOTdlLTUyMDFjNDE2NTVkNi5qcDIvaW5mby5qc29uL2NhbnZhcy9wMSIsCiAgICAgICJ0eXBlIjogIkNhbnZhcyIsCiAgICAgICJoZWlnaHQiOiA2NDcxLAogICAgICAid2lkdGgiOiA0ODcwLAogICAgICAibWV0YWRhdGEiOiBbCiAgICAgICAgewogICAgICAgICAgImxhYmVsIjogewogICAgICAgICAgICAibmwiOiBbCiAgICAgICAgICAgICAgImRvd25sb2FkIG9yaWdpbmFsIGltYWdlIgogICAgICAgICAgICBdCiAgICAgICAgICB9LAogICAgICAgICAgInZhbHVlIjogewogICAgICAgICAgICAibmwiOiBbCiAgICAgICAgICAgICAgImh0dHBzOi8vc2VydmljZS5hcmNoaWVmLm5sL2dhZi9hcGkvZmlsZS92MS9kZWZhdWx0LzRkZTU3NDY3LWNiNmItNGZkZi1iOTdlLTUyMDFjNDE2NTVkNiIKICAgICAgICAgICAgXQogICAgICAgICAgfQogICAgICAgIH0KICAgICAgXSwKICAgICAgIml0ZW1zIjogWwogICAgICAgIHsKICAgICAgICAgICJpZCI6ICJodHRwczovL3NlcnZpY2UuYXJjaGllZi5ubC9paXAvMDYvZjMvNTAvYWYvNDUvZTQvNDIvM2MvYTYvNTUvMGQvOWUvOWEvYzAvOTIvZGQvNGRlNTc0NjctY2I2Yi00ZmRmLWI5N2UtNTIwMWM0MTY1NWQ2LmpwMi9pbmZvLmpzb24vY2FudmFzL3AxL2Fubm90YXRpb24iLAogICAgICAgICAgInR5cGUiOiAiQW5ub3RhdGlvblBhZ2UiLAogICAgICAgICAgIml0ZW1zIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgImlkIjogImh0dHBzOi8vc2VydmljZS5hcmNoaWVmLm5sL2lpcC8wNi9mMy81MC9hZi80NS9lNC80Mi8zYy9hNi81NS8wZC85ZS85YS9jMC85Mi9kZC80ZGU1NzQ2Ny1jYjZiLTRmZGYtYjk3ZS01MjAxYzQxNjU1ZDYuanAyL2luZm8uanNvbi9jYW52YXMvcDEvYW5ub3RhdGlvbi8xIiwKICAgICAgICAgICAgICAidHlwZSI6ICJBbm5vdGF0aW9uIiwKICAgICAgICAgICAgICAibW90aXZhdGlvbiI6ICJwYWludGluZyIsCiAgICAgICAgICAgICAgImJvZHkiOiB7CiAgICAgICAgICAgICAgICAiaWQiOiAiaHR0cHM6Ly9zZXJ2aWNlLmFyY2hpZWYubmwvaWlwc3J2P0lJSUY9LzkyLzRkZTU3NDY3LWNiNmItNGZkZi1iOTdlLTUyMDFjNDE2NTVkNlxcLmpwMi9mdWxsL2Z1bGwvMC9kZWZhdWx0XFwuanAyIiwKICAgICAgICAgICAgICAgICJ0eXBlIjogIkltYWdlIiwKICAgICAgICAgICAgICAgICJmb3JtYXQiOiAiaW1hZ2UvanBlZyIsCiAgICAgICAgICAgICAgICAiaGVpZ2h0IjogNjQ3MSwKICAgICAgICAgICAgICAgICJ3aWR0aCI6IDQ4NzAsCiAgICAgICAgICAgICAgICAic2VydmljZSI6IFsKICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJpZCI6ICJodHRwczovL3NlcnZpY2UuYXJjaGllZi5ubC9paXBzcnY/SUlJRj0vMDYvZjMvNTAvYWYvNDUvZTQvNDIvM2MvYTYvNTUvMGQvOWUvOWEvYzAvOTIvZGQvNGRlNTc0NjctY2I2Yi00ZmRmLWI5N2UtNTIwMWM0MTY1NWQ2LmpwMiIsCiAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAiSW1hZ2VTZXJ2aWNlMyIsCiAgICAgICAgICAgICAgICAgICAgInByb2ZpbGUiOiAibGV2ZWwxIgogICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAidGFyZ2V0IjogImh0dHBzOi8vc2VydmljZS5hcmNoaWVmLm5sL2lpcC8wNi9mMy81MC9hZi80NS9lNC80Mi8zYy9hNi81NS8wZC85ZS85YS9jMC85Mi9kZC80ZGU1NzQ2Ny1jYjZiLTRmZGYtYjk3ZS01MjAxYzQxNjU1ZDYuanAyL2luZm8uanNvbi9jYW52YXMvcDEiCiAgICAgICAgICAgIH0KICAgICAgICAgIF0KICAgICAgICB9CiAgICAgIF0KICAgIH0KICBdCn0=
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.VELH_23.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.VELH_23"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.VELH, 23, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kaart van Spitsbergen en omgeving opgemaakt naar de waarnemingen gedaan door de Zweedsche Noordpoolexpeditie onder Dun\u00e9r en Nordenski\u00f6ld in 1861-1864."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Date of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1876"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Physical state of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "\n                          "
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This records is part of the collection:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "0"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This records is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Staten van Holland en West-Friesland', 'Raad der Koloni\u00ebn in West-Indi\u00eb', 'Kamer Zeeland', 'Commissie Bepaling Lengte op Zee Verbetering v. Zeekaarten', 'Oud Archief Suriname: Gouvernementssecretarie', 'Comit\u00e9 tot de Oost-Indische Handel en Bezittingen', 'Verenigde Oostindische Compagnie', 'Algemene Directie', 'Departement van de Equipage', 'Directie ad interim voor de Westindische Koloni\u00ebn', 'Depot-Generaal van Oorlog', 'Raad der Amerikaanse Bezittingen en Etablissementen', 'Directie van de Soci\u00ebteit van Berbice', 'College ter Admiraliteit te Amsterdam', 'Westindische Compagnie', 'Ministerie van Marine en Koloni\u00ebn', 'Comit\u00e9 tot de Zaken Koloni\u00ebn en Bezittingen op de Kust Guinea en in Amerika', 'Directie van de Soci\u00ebteit van Suriname', 'Raad der Aziatische Bezittingen en Etablissementen', 'Ministerie van Koophandel en Koloni\u00ebn', 'Kamer Amsterdam', 'Hollandse Divisie'}"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated families"
+        ]
+      },
+      "value": {
+        "nl": [
+          "[]"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/06/f3/50/af/45/e4/42/3c/a6/55/0d/9e/9a/c0/92/dd/4de57467-cb6b-4fdf-b97e-5201c41655d6.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 6471,
+      "width": 4870,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/4de57467-cb6b-4fdf-b97e-5201c41655d6"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/06/f3/50/af/45/e4/42/3c/a6/55/0d/9e/9a/c0/92/dd/4de57467-cb6b-4fdf-b97e-5201c41655d6.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/06/f3/50/af/45/e4/42/3c/a6/55/0d/9e/9a/c0/92/dd/4de57467-cb6b-4fdf-b97e-5201c41655d6.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/92/4de57467-cb6b-4fdf-b97e-5201c41655d6\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6471,
+                "width": 4870,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/06/f3/50/af/45/e4/42/3c/a6/55/0d/9e/9a/c0/92/dd/4de57467-cb6b-4fdf-b97e-5201c41655d6.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/06/f3/50/af/45/e4/42/3c/a6/55/0d/9e/9a/c0/92/dd/4de57467-cb6b-4fdf-b97e-5201c41655d6.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
